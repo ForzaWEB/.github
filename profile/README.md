@@ -1,12 +1,20 @@
-## Hi there 👋
 
-<!--
+![Logo](https://cdn.discordapp.com/attachments/1028351001775853718/1035470334540918845/linkedin_banner_image_2.png)
 
-**Here are some ideas to get you started:**
+    
+# ForzaWEB 🐊
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+It is an open source web development project that you can work on and benefit from at no cost. By participating from all over the world, you can promote your projects as open source and help other people use them.
+## FAQ ⚠️ 
+
+- ###  ``Can I benefit from all shared codes?``
+ Of course, all code shared under ForzaWEB is open source and you can benefit from it.
+- ###  ``How can I get a developer role?``
+If you have web codes that you can share as open source, you can develop in ForzaWEB. Contact with forzaweb@workmail.com.
+- ### ``Can I share what's shared here in my own project?``
+All content shared on ForzaWeb is for our users, in order to share this content on any platform, the content must be shared with the ForzaWEB tag.
+## Founders and Contributors 🛠
+
+- [@BerkayToklucu](https://www.github.com/BerkayToklucu) Founder of ForzaWEB   
+- [@Matt](https://www.github.com/matthiiaas) Founder of ForzaWEB
+  
