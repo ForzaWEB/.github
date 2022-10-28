@@ -1,5 +1,5 @@
 
-![Logo](../forzaweb.png)
+![Logo](https://cdn.discordapp.com/attachments/1028351001775853718/1035477287287660544/forzaweb.png)
 
     
 # ForzaWEB 🐊
