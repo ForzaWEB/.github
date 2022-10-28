@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/1028351001775853718/1035470334540918845/linkedin_banner_image_2.png)
+![Logo](../forzaweb.png)
 
     
 # ForzaWEB 🐊
