@@ -10,7 +10,7 @@ It is an open source web development project that you can work on and benefit fr
 - ###  ``Can I benefit from all shared codes?``
  Of course, all code shared under ForzaWEB is open source and you can benefit from it.
 - ###  ``How can I get a developer role?``
-If you have web codes that you can share as open source, you can develop in ForzaWEB. Contact with forzaweb@workmail.com.
+If you have web codes that you can share as open source, you can develop in ForzaWEB. Contact with forzaweb@proton.me.
 - ### ``Can I share what's shared here in my own project?``
 All content shared on ForzaWeb is for our users, in order to share this content on any platform, the content must be shared with the ForzaWEB tag.
 ## Founders and Contributors 🛠
